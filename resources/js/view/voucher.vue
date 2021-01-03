@@ -1,6 +1,6 @@
 <template>
-    <div clas="voucher-one" >
-        Este es un voucher fork Nathan
+    <div clas="voucher" >
+        Este es un voucher fork Erick untels of Nathan
     </div>
 </template>
 
